@@ -1,0 +1,10 @@
+* exit-hooks
+
+Call functions automatically when Common Lisp exit
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/ailisp/exit-hooks.git   |
+| commit  | 78050f4  |
+| systems | exit-hooks |
+|---------+-------------------------------------------|
+
